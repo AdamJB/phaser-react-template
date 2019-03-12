@@ -1,0 +1,8 @@
+{
+  "short_name": "Slotto",
+  "name": "The little slot clicker.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
